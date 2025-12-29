@@ -1,11 +1,6 @@
 {
   "accounts": [
     {
-      "name": "test",
-      "platform": "epicgames",
-      "price": 25
-    },
-    {
       "name": "pubescent",
       "platform": "epicgames",
       "price": 75
