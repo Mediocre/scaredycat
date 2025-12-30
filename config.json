@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "underline",
+      "platform": "snapchat",
+      "price": 75
+    },
+    {
       "name": "freely",
       "platform": "snapchat",
       "price": 75
