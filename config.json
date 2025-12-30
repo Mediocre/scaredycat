@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "esdeekid",
+      "platform": "steam",
+      "price": 300
+    },
+    {
       "name": "footage",
       "platform": "snapchat",
       "price": 750
