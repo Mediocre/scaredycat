@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "woofwoof",
+      "platform": "snapchat",
+      "price": 75
+    },
+    {
       "name": "underline",
       "platform": "snapchat",
       "price": 75
