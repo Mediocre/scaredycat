@@ -5401,11 +5401,6 @@
       "price": 75
     },
     {
-      "name": "canaries",
-      "platform": "twitch",
-      "price": 35
-    },
-    {
       "name": "excavation",
       "platform": "twitch",
       "price": 75
