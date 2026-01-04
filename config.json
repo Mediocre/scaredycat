@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "inseminate",
+      "platform": "discord",
+      "price": 300
+    },
+    {
       "name": "kendama",
       "platform": "discord",
       "price": 250
