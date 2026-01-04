@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "polog",
+      "platform": "epicgames",
+      "price": 175
+    },
+    {
       "name": "epikwhale",
       "platform": "epicgames",
       "price": 100
