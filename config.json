@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "kendama",
+      "platform": "discord",
+      "price": 250
+    },
+    {
       "name": "livable",
       "platform": "discord",
       "price": 150
