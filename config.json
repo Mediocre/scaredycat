@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "1932",
+      "platform": "discord",
+      "price": 125
+    },
+    {
       "name": "discounting",
       "platform": "discord",
       "price": 100
