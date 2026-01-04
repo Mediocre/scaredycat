@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "discounting",
+      "platform": "discord",
+      "price": 100
+    },
+    {
       "name": "yungbans",
       "platform": "discord",
       "price": 100
