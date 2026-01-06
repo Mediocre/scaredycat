@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "b*traying",
+      "platform": "github",
+      "price": 100
+    },
+    {
       "name": "whore",
       "platform": "soundcloud",
       "price": "offer"
