@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "panicked",
+      "platform": "epicgames",
+      "price": 50
+    },
+    {
       "name": "b*traying",
       "platform": "github",
       "price": 100
