@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "lowtiergod",
+      "platform": "discord",
+      "price": 75
+    },
+    {
       "name": "panicked",
       "platform": "epicgames",
       "price": 50
