@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "b*ils",
+      "platform": "discord",
+      "price": 100
+    },
+    {
       "name": "alt*rnates",
       "platform": "discord",
       "price": 100
