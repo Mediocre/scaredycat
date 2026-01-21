@@ -1,11 +1,6 @@
 {
   "accounts": [
     {
-      "name": "raygun",
-      "platform": "snapchat",
-      "price": 100
-    },
-    {
       "name": "mjolnir",
       "platform": "telegram",
       "price": 300
