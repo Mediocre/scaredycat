@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "m*tsurikanroji",
+      "platform": "discord",
+      "price": 125
+    },
+    {
       "name": "envisi*ning",
       "platform": "discord",
       "price": 100
