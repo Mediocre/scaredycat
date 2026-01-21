@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "h*tsprings",
+      "platform": "discord",
+      "price": 75
+    },
+    {
       "name": "sunsets",
       "platform": "epicgames",
       "price": 35
