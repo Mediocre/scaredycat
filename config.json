@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "disguises",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
       "name": "mollysantana",
       "platform": "snapchat",
       "price": 150
