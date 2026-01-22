@@ -86,11 +86,6 @@
       "price": 100
     },
     {
-      "name": "mjolnir",
-      "platform": "telegram",
-      "price": 300
-    },
-    {
       "name": "d2i",
       "platform": "epicgames",
       "price": 15
