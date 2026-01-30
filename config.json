@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "pomeranian",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "misdemeanor",
       "platform": "steam",
       "price": "offer"
