@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "stak*ng",
+      "platform": "discord",
+      "price": 175
+    },
+    {
       "name": "gizmo",
       "platform": "epicgames",
       "price": 75
