@@ -31,11 +31,6 @@
       "price": 175
     },
     {
-      "name": "gizmo",
-      "platform": "epicgames",
-      "price": 75
-    },
-    {
       "name": "p*rsuasion",
       "platform": "github",
       "price": 200
