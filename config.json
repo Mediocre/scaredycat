@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "overd*sed",
+      "platform": "github",
+      "price": 225
+    },
+    {
       "name": "toad",
       "platform": "epicgames",
       "price": 750
