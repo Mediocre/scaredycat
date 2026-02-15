@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "toad",
+      "platform": "epicgames",
+      "price": 750
+    },
+    {
       "name": "reaver",
       "platform": "epicgames",
       "price": 75
