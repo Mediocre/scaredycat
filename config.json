@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "reaver",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
       "name": "qw*rtyu",
       "platform": "discord",
       "price": "offer"
