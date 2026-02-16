@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "v*terinarian",
+      "platform": "discord",
+      "price": 300
+    },
+    {
       "name": "bloodh*undq50",
       "platform": "github",
       "price": 150
