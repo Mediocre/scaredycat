@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "p*rachute",
+      "platform": "github",
+      "price": 225
+    },
+    {
       "name": "thr*ttle",
       "platform": "github",
       "price": 200
