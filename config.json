@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "m*fias",
+      "platform": "discord",
+      "price": 225
+    },
+    {
       "name": "sq*irms",
       "platform": "discord",
       "price": 300
