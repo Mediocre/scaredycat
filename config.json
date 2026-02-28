@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "bl*esky",
+      "platform": "discord",
+      "price": 350
+    },
+    {
       "name": "naruto",
       "platform": "epicgames",
       "price": 1500
