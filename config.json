@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "fitting",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "serving",
       "platform": "steam",
       "price": "offer"
