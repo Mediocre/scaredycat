@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "surrenders",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "patiently",
       "platform": "steam",
       "price": "offer"
