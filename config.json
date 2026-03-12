@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "abominablesnowman",
+      "platform": "telegram",
+      "price": 125
+    },
+    {
       "name": "g*nders",
       "platform": "discord",
       "price": 175
