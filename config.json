@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "squeaky",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "comprehend",
       "platform": "steam",
       "price": "offer"
