@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "m*squitoes",
+      "platform": "github",
+      "price": 75
+    },
+    {
       "name": "pinkt*pe",
       "platform": "discord",
       "price": 150
