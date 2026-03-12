@@ -3611,11 +3611,6 @@
       "price": 75
     },
     {
-      "name": "caterpie",
-      "platform": "telegram",
-      "price": 400
-    },
-    {
       "name": "giraffe",
       "platform": "epicgames",
       "price": 300
