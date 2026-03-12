@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "soaking",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "preventing",
       "platform": "steam",
       "price": "offer"
