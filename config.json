@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "preventing",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "luxuriously",
       "platform": "steam",
       "price": "offer"
