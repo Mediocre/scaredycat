@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "falsetto",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "kaws",
       "platform": "steam",
       "price": "offer"
