@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "perceiving",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "drifblim",
       "platform": "steam",
       "price": "offer"
