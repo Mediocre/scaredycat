@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "t*gofwar",
+      "platform": "discord",
+      "price": 75
+    },
+    {
       "name": "c*di",
       "platform": "github",
       "price": 150
