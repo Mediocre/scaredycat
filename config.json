@@ -1,6 +1,31 @@
 {
   "accounts": [
     {
+      "name": "bl*cklisting",
+      "platform": "discord",
+      "price": 175
+    },
+    {
+      "name": "f*ngertip",
+      "platform": "discord",
+      "price": 150
+    },
+    {
+      "name": "l*nguistics",
+      "platform": "discord",
+      "price": 125
+    },
+    {
+      "name": "ov*rthetop",
+      "platform": "discord",
+      "price": 100
+    },
+    {
+      "name": "h*lking",
+      "platform": "discord",
+      "price": 75
+    },
+    {
       "name": "stick*p",
       "platform": "discord",
       "price": 100
