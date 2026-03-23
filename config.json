@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "Wallet",
+      "platform": "epicgames",
+      "price": 175
+    },
+    {
       "name": "via",
       "platform": "epicgames",
       "price": 150
