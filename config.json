@@ -1,6 +1,16 @@
 {
   "accounts": [
     {
+      "name": "via",
+      "platform": "epicgames",
+      "price": 150
+    },
+    {
+      "name": "fyy",
+      "platform": "epicgames",
+      "price": 35
+    },
+    {
       "name": "❤",
       "platform": "epicgames",
       "price": 2500
