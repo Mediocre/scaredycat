@@ -1,6 +1,86 @@
 {
   "accounts": [
     {
+      "name": "❤",
+      "platform": "epicgames",
+      "price": 2500
+    },
+    {
+      "name": "be",
+      "platform": "epicgames",
+      "price": 1500
+    },
+    {
+      "name": "ce",
+      "platform": "epicgames",
+      "price": 750
+    },
+    {
+      "name": "huh",
+      "platform": "epicgames",
+      "price": 750
+    },
+    {
+      "name": "owl",
+      "platform": "epicgames",
+      "price": 600
+    },
+    {
+      "name": "r_r",
+      "platform": "epicgames",
+      "price": 450
+    },
+    {
+      "name": "piglet",
+      "platform": "epicgames",
+      "price": 150
+    },
+    {
+      "name": "bb8",
+      "platform": "epicgames",
+      "price": 100
+    },
+    {
+      "name": "imagination",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
+      "name": "hiro hamada",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
+      "name": "zna",
+      "platform": "epicgames",
+      "price": 15
+    },
+    {
+      "name": "damages",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
+      "name": "suspicio.us",
+      "platform": "domain",
+      "price": "offer"
+    },
+    {
+      "name": "b***s (hint: food)",
+      "platform": "twitter",
+      "price": "offer"
+    },
+    {
+      "name": "warthog",
+      "platform": "telegram",
+      "price": 250
+    },
+    {
+      "name": "warthog",
+      "platform": "telegram",
+      "price": 250
+    },
+    {
       "name": "bl*cklisting",
       "platform": "discord",
       "price": 175
@@ -218,7 +298,7 @@
     {
       "name": "toad",
       "platform": "epicgames",
-      "price": 750
+      "price": 500
     },
     {
       "name": "reaver",
@@ -5146,11 +5226,6 @@
       "price": 25
     },
     {
-      "name": "be",
-      "platform": "epicgames",
-      "price": "offer"
-    },
-    {
       "name": "小法",
       "platform": "epicgames",
       "price": "offer"
@@ -5228,7 +5303,7 @@
     {
       "name": "farewell",
       "platform": "twitch",
-      "price": "offer"
+      "price": 1500
     },
     {
       "name": "vibranium",
