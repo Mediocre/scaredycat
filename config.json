@@ -1,7 +1,12 @@
 {
   "accounts": [
     {
-      "name": "Wallet",
+      "name": "cl*velandbrown",
+      "platform": "discord",
+      "price": 200
+    },
+    {
+      "name": "wallet",
       "platform": "epicgames",
       "price": 175
     },
