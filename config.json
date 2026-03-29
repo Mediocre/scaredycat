@@ -56,11 +56,6 @@
       "price": 75
     },
     {
-      "name": "zna",
-      "platform": "epicgames",
-      "price": 15
-    },
-    {
       "name": "damages",
       "platform": "minecraft",
       "price": "offer"
