@@ -3786,11 +3786,6 @@
       "price": 50
     },
     {
-      "name": "poltergeist",
-      "platform": "telegram",
-      "price": 2000
-    },
-    {
       "name": "fazbear",
       "platform": "telegram",
       "price": 300
