@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "jaws",
+      "platform": "epicgames",
+      "price": 150
+    },
+    {
       "name": "tendril",
       "platform": "epicgames",
       "price": 100
