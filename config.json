@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "bl*derunner2049",
+      "platform": "discord",
+      "price": 150
+    },
+    {
       "name": "8b*llpool",
       "platform": "discord",
       "price": 100
