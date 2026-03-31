@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "h*neymustard",
+      "platform": "github",
+      "price": 50
+    },
+    {
       "name": "jaws",
       "platform": "epicgames",
       "price": 150
