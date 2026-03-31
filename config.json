@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "** (hint: rainbow six siege)",
+      "platform": "github",
+      "price": 750
+    },
+    {
       "name": "h*neymustard",
       "platform": "github",
       "price": 50
