@@ -91,11 +91,6 @@
       "price": 75
     },
     {
-      "name": "damages",
-      "platform": "minecraft",
-      "price": "offer"
-    },
-    {
       "name": "suspicio.us",
       "platform": "domain",
       "price": "offer"
