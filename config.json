@@ -571,11 +571,6 @@
       "price": 75
     },
     {
-      "name": "nightly",
-      "platform": "snapchat",
-      "price": 75
-    },
-    {
       "name": "attending",
       "platform": "snapchat",
       "price": 50
