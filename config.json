@@ -1,11 +1,6 @@
 {
   "accounts": [
     {
-      "name": "inc*nvenient",
-      "platform": "discord",
-      "price": 500
-    },
-    {
       "name": "** (hint: rainbow six siege)",
       "platform": "github",
       "price": 750
