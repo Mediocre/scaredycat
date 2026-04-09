@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "gymn*stics",
+      "platform": "discord",
+      "price": 175
+    },
+    {
       "name": "interr*gated",
       "platform": "discord",
       "price": 250
