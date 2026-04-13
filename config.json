@@ -146,11 +146,6 @@
       "price": 75
     },
     {
-      "name": "c*di",
-      "platform": "github",
-      "price": 150
-    },
-    {
       "name": "newt",
       "platform": "steam",
       "price": "offer"
