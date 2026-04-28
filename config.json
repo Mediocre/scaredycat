@@ -321,11 +321,6 @@
       "price": 500
     },
     {
-      "name": "reaver",
-      "platform": "epicgames",
-      "price": 75
-    },
-    {
       "name": "alcap*ne",
       "platform": "github",
       "price": 150
