@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "w*tback",
+      "platform": "discord",
+      "price": 300
+    },
+    {
       "name": "un*nstall",
       "platform": "discord",
       "price": 225
