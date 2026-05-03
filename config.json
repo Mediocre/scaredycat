@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "th*nkfulness",
+      "platform": "discord",
+      "price": 75
+    },
+    {
       "name": "app*tites",
       "platform": "discord",
       "price": 100
