@@ -1,11 +1,6 @@
 {
   "accounts": [
     {
-      "name": "blade",
-      "platform": "epicgames",
-      "price": 1000
-    },
-    {
       "name": "w*tback",
       "platform": "discord",
       "price": 300
