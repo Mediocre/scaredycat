@@ -1,7 +1,7 @@
 {
   "accounts": [
     {
-      "name": "Entomologist",
+      "name": "entomologist",
       "platform": "epicgames",
       "price": 75
     },
@@ -11,57 +11,57 @@
       "price": 75
     },
     {
-      "name": "ShisuiUchiha",
+      "name": "shisuiuchiha",
       "platform": "epicgames",
       "price": 100
     },
     {
-      "name": "Newsletters",
+      "name": "newsletters",
       "platform": "epicgames",
       "price": 25
     },
     {
-      "name": "Doomfist",
+      "name": "doomfist",
       "platform": "epicgames",
       "price": 150
     },
     {
-      "name": "Oceania",
+      "name": "oceania",
       "platform": "epicgames",
       "price": 250
     },
     {
-      "name": "Kogal",
+      "name": "kogal",
       "platform": "epicgames",
       "price": 50
     },
     {
-      "name": "Biracial",
+      "name": "biracial",
       "platform": "epicgames",
       "price": 75
     },
     {
-      "name": "Molly Santana",
+      "name": "molly santana",
       "platform": "epicgames",
       "price": 125
     },
     {
-      "name": "Samurais",
+      "name": "samurais",
       "platform": "epicgames",
       "price": 75
     },
     {
-      "name": "Smooching",
+      "name": "smooching",
       "platform": "epicgames",
       "price": 75
     },
     {
-      "name": "Skedaddle",
+      "name": "skedaddle",
       "platform": "epicgames",
       "price": 50
     },
     {
-      "name": "Gens",
+      "name": "gens",
       "platform": "epicgames",
       "price": 25
     },
@@ -71,32 +71,32 @@
       "price": 35
     },
     {
-      "name": "BabyChiefDoit",
+      "name": "babychiefdoit",
       "platform": "epicgames",
       "price": 75
     },
     {
-      "name": "Dom Corleo",
+      "name": "dom corleo",
       "platform": "epicgames",
       "price": 75
     },
     {
-      "name": "Blemishes",
+      "name": "blemishes",
       "platform": "epicgames",
       "price": 35
     },
     {
-      "name": "Glamorizing",
+      "name": "glamorizing",
       "platform": "epicgames",
       "price": 25
     },
     {
-      "name": "Nicknaming",
+      "name": "nicknaming",
       "platform": "epicgames",
       "price": 25
     },
     {
-      "name": "ThrowingKnife",
+      "name": "throwingknife",
       "platform": "epicgames",
       "price": 25
     },
