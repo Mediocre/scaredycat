@@ -671,11 +671,6 @@
       "price": 25
     },
     {
-      "name": "forever21",
-      "platform": "epicgames",
-      "price": 35
-    },
-    {
       "name": "fimiguerrero",
       "platform": "epicgames",
       "price": 150
@@ -5436,11 +5431,6 @@
       "price": 25
     },
     {
-      "name": "hurried",
-      "platform": "epicgames",
-      "price": 25
-    },
-    {
       "name": "fridge",
       "platform": "epicgames",
       "price": 250
@@ -5497,11 +5487,6 @@
     },
     {
       "name": "masseffect",
-      "platform": "epicgames",
-      "price": 35
-    },
-    {
-      "name": "juror",
       "platform": "epicgames",
       "price": 35
     },
