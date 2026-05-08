@@ -236,11 +236,6 @@
       "price": 200
     },
     {
-      "name": "wallet",
-      "platform": "epicgames",
-      "price": 175
-    },
-    {
       "name": "be",
       "platform": "epicgames",
       "price": 1500
@@ -499,11 +494,6 @@
       "name": "milcery",
       "platform": "epicgames",
       "price": 35
-    },
-    {
-      "name": "loafing",
-      "platform": "epicgames",
-      "price": 25
     },
     {
       "name": "mollysantana",
