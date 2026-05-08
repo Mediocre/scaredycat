@@ -1,6 +1,106 @@
 {
   "accounts": [
     {
+      "name": "Entomologist",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
+      "name": "o.h",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
+      "name": "ShisuiUchiha",
+      "platform": "epicgames",
+      "price": 100
+    },
+    {
+      "name": "Newsletters",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
+      "name": "Doomfist",
+      "platform": "epicgames",
+      "price": 150
+    },
+    {
+      "name": "Oceania",
+      "platform": "epicgames",
+      "price": 250
+    },
+    {
+      "name": "Kogal",
+      "platform": "epicgames",
+      "price": 50
+    },
+    {
+      "name": "Biracial",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
+      "name": "Molly Santana",
+      "platform": "epicgames",
+      "price": 125
+    },
+    {
+      "name": "Samurais",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
+      "name": "Smooching",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
+      "name": "Skedaddle",
+      "platform": "epicgames",
+      "price": 50
+    },
+    {
+      "name": "Gens",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
+      "name": "m8_",
+      "platform": "epicgames",
+      "price": 35
+    },
+    {
+      "name": "BabyChiefDoit",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
+      "name": "Dom Corleo",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
+      "name": "Blemishes",
+      "platform": "epicgames",
+      "price": 35
+    },
+    {
+      "name": "Glamorizing",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
+      "name": "Nicknaming",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
+      "name": "ThrowingKnife",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
       "name": "w*tback",
       "platform": "discord",
       "price": 300
