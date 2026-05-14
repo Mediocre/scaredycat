@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "deadb*ats",
+      "platform": "discord",
+      "price": 150
+    },
+    {
       "name": "d*vising",
       "platform": "discord",
       "price": 125
