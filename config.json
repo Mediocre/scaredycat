@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "akr*n",
+      "platform": "discord",
+      "price": 100
+    },
+    {
       "name": "c*verable",
       "platform": "discord",
       "price": 75
