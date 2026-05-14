@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "h*psters",
+      "platform": "discord",
+      "price": 225
+    },
+    {
       "name": "w*rldofwarcraft",
       "platform": "discord",
       "price": 175
