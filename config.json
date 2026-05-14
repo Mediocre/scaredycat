@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "w*rldofwarcraft",
+      "platform": "discord",
+      "price": 175
+    },
+    {
       "name": "deadb*ats",
       "platform": "discord",
       "price": 150
