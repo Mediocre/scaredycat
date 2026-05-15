@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "theoneaboveall",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "textnow",
       "platform": "minecraft",
       "price": "offer"
