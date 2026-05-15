@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "toblerone",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "vitocorleone",
       "platform": "tiktok",
       "price": "offer"
