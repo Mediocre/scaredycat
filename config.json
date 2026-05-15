@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "deadanimal",
+      "platform": "twitch",
+      "price": 50
+    },
+    {
       "name": "mongooses",
       "platform": "twitch",
       "price": 35
