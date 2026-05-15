@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "wallkisser",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "withstanding",
       "platform": "minecraft",
       "price": "offer"
