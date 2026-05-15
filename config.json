@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "denounces",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "enunciating",
       "platform": "minecraft",
       "price": "offer"
