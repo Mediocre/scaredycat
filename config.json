@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "meiaihara",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "soulspeed",
       "platform": "telegram",
       "price": "offer"
