@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "tourniquets",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "towmater",
       "platform": "tiktok",
       "price": "offer"
