@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "lucassinclair",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "planetoftheapes",
       "platform": "minecraft",
       "price": "offer"
