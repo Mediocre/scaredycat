@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "quadrupling",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "manifestable",
       "platform": "telegram",
       "price": "offer"
