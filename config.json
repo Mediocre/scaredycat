@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "firstdegreemurder",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "millennial",
       "platform": "minecraft",
       "price": "offer"
