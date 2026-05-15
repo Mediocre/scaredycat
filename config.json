@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "jiggerboo",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "ironarmor",
       "platform": "telegram",
       "price": "offer"
