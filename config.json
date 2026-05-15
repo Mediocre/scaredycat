@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "aggravates",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "appraiser",
       "platform": "minecraft",
       "price": "offer"
