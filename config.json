@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "electrospirit",
+      "platform": "twitch",
+      "price": 25
+    },
+    {
       "name": "surveying",
       "platform": "epicgames",
       "price": 35
