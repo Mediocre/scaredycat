@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "fastpace",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "lovesickness",
       "platform": "tiktok",
       "price": "offer"
