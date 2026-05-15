@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "makingout",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
       "name": "gr*upie",
       "platform": "github",
       "price": 175
