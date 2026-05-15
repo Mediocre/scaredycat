@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "medevac",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "malintent",
       "platform": "minecraft",
       "price": "offer"
