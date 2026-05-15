@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "xwing",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "zodiacsign",
       "platform": "minecraft",
       "price": "offer"
