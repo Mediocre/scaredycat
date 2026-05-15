@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "pibblepalace",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "pdffiles",
       "platform": "minecraft",
       "price": "offer"
