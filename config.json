@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "simswappers",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
       "name": "makingout",
       "platform": "epicgames",
       "price": 25
