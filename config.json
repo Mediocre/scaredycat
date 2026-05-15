@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "withstanding",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "xwing",
       "platform": "minecraft",
       "price": "offer"
