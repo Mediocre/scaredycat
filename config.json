@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "smoothbrained",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "firstdegreemurder",
       "platform": "telegram",
       "price": "offer"
