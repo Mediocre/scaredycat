@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "hospitalizing",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "pigstep",
       "platform": "telegram",
       "price": "offer"
