@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "thatll",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "thumping",
       "platform": "minecraft",
       "price": "offer"
