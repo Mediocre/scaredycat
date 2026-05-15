@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "watermoccasin",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "bayswag",
       "platform": "telegram",
       "price": "offer"
