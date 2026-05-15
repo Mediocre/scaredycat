@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "alfredolinguini",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "machikomacine",
       "platform": "telegram",
       "price": "offer"
