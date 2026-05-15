@@ -1436,11 +1436,6 @@
       "price": 200
     },
     {
-      "name": "natesib",
-      "platform": "telegram",
-      "price": 400
-    },
-    {
       "name": "redirected",
       "platform": "steam",
       "price": "offer"
