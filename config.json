@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "deflowering",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "hippopotamuses",
       "platform": "telegram",
       "price": "offer"
