@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "chaoticness",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "rediscover",
       "platform": "steam",
       "price": "offer"
