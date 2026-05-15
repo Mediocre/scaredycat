@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "buckefps",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "s*illwater",
       "platform": "twitter",
       "price": 75
