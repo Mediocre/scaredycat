@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "k*mododragon",
+      "platform": "github",
+      "price": 75
+    },
+    {
       "name": "h*hhhhhh",
       "platform": "discord",
       "price": 400
