@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "guaifenesin",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "pibblepalace",
       "platform": "minecraft",
       "price": "offer"
