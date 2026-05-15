@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "agoraphobe",
+      "platform": "twitch",
+      "price": 250
+    },
+    {
       "name": "antagonizer",
       "platform": "twitch",
       "price": 75
