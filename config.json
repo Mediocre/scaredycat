@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "finizen",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "inspectorgadget",
       "platform": "minecraft",
       "price": "offer"
