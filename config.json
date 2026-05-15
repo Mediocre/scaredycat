@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "ironarmor",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "roidraging",
       "platform": "telegram",
       "price": "offer"
