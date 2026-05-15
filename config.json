@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "naclstack",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "georgehwbush",
       "platform": "telegram",
       "price": "offer"
