@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "newyorker",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "chaoticness",
       "platform": "steam",
       "price": "offer"
