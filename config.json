@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "preposing",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "hermitcrabs",
       "platform": "steam",
       "price": "offer"
