@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "hippopotamuses",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "compoundv",
       "platform": "telegram",
       "price": "offer"
