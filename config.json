@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "blpkosher",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "splooge",
       "platform": "telegram",
       "price": "offer"
