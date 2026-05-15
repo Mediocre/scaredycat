@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "tenderized",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "draxthedestroyer",
       "platform": "telegram",
       "price": "offer"
