@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "landoncube",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "homesteads",
       "platform": "tiktok",
       "price": "offer"
