@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "refrigerates",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "ropemaxx",
       "platform": "minecraft",
       "price": "offer"
