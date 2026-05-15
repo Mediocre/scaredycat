@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "tendrils",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "tonkinese",
       "platform": "tiktok",
       "price": "offer"
