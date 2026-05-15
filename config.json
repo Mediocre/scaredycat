@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "fayewebster",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "natesib",
       "platform": "telegram",
       "price": "offer"
