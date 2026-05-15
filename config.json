@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "allenthealien",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "agoraphobe",
       "platform": "twitch",
       "price": 250
