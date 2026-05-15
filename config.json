@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "molotovcocktail",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "fastpace",
       "platform": "tiktok",
       "price": "offer"
