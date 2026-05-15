@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "nowheretobefound",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "woodlandmansion",
       "platform": "telegram",
       "price": "offer"
