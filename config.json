@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "doomsdaykiller",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "mushroomstew",
       "platform": "telegram",
       "price": "offer"
