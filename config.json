@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "lusted",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "molotovcocktail",
       "platform": "tiktok",
       "price": "offer"
