@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "splooge",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "yokais",
       "platform": "telegram",
       "price": "offer"
