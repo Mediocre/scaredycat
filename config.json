@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "hypixelpit",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "daveblunts",
       "platform": "tiktok",
       "price": "offer"
