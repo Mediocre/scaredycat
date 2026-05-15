@@ -5916,11 +5916,6 @@
       "price": 50
     },
     {
-      "name": "chupacabra",
-      "platform": "telegram",
-      "price": 500
-    },
-    {
       "name": "farewell",
       "platform": "twitch",
       "price": 1500
