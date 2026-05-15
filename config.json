@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "dreamcon",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "webweaver",
       "platform": "minecraft",
       "price": "offer"
