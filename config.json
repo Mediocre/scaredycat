@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "wrongdoing",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "kevinhart",
       "platform": "tiktok",
       "price": "offer"
