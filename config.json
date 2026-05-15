@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "r*adtrip",
+      "platform": "github",
+      "price": 50
+    },
+    {
       "name": "i*iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
       "platform": "github",
       "price": 50
