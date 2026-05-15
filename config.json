@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "gizzards",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "buckefps",
       "platform": "tiktok",
       "price": "offer"
