@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "machikomacine",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "smeeze",
       "platform": "telegram",
       "price": "offer"
