@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "offputting",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "showboating",
       "platform": "steam",
       "price": "offer"
