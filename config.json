@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "draxthedestroyer",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "pdffiles",
       "platform": "telegram",
       "price": "offer"
