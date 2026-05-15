@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "swarming",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "synchronous",
       "platform": "telegram",
       "price": "offer"
