@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "ropemaxx",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "sanctimonious",
       "platform": "minecraft",
       "price": "offer"
