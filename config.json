@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "amputating",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "schmucks",
       "platform": "steam",
       "price": "offer"
