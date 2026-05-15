@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "catapulting",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "colonoscopy",
       "platform": "minecraft",
       "price": "offer"
