@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "hardhat",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "toblerone",
       "platform": "tiktok",
       "price": "offer"
