@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "shedblood",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "jiggerboo",
       "platform": "telegram",
       "price": "offer"
