@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "quickseller",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "refrigerates",
       "platform": "minecraft",
       "price": "offer"
