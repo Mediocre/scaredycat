@@ -5931,11 +5931,6 @@
       "price": 75
     },
     {
-      "name": "gatlinggun",
-      "platform": "telegram",
-      "price": 50
-    },
-    {
       "name": "farewell",
       "platform": "twitch",
       "price": 1500
