@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "p*ntagrams",
+      "platform": "github",
+      "price": 100
+    },
+    {
       "name": "k*mododragon",
       "platform": "github",
       "price": 75
