@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "icepicks",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "meiaihara",
       "platform": "telegram",
       "price": "offer"
