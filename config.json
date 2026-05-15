@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "sadakoyamamura",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "streetperformer",
       "platform": "telegram",
       "price": "offer"
