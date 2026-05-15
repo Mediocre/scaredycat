@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "sanctimonious",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "finizen",
       "platform": "minecraft",
       "price": "offer"
