@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "clamscasino",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "moneyheist",
       "platform": "tiktok",
       "price": "offer"
