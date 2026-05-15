@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "enunciating",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "fiberglass",
       "platform": "minecraft",
       "price": "offer"
