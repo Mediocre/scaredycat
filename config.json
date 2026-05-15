@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "snorkeler",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "soberest",
       "platform": "minecraft",
       "price": "offer"
