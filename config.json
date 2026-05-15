@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "planetoftheapes",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "trendhopper",
       "platform": "minecraft",
       "price": "offer"
