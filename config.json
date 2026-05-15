@@ -1431,11 +1431,6 @@
       "price": 25
     },
     {
-      "name": "fayewebster",
-      "platform": "telegram",
-      "price": 200
-    },
-    {
       "name": "redirected",
       "platform": "steam",
       "price": "offer"
