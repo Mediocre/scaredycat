@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "vindicating",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "unathletic",
       "platform": "telegram",
       "price": "offer"
