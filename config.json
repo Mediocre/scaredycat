@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "caterpillars",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "vindicating",
       "platform": "telegram",
       "price": "offer"
