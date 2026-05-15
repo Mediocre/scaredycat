@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "moneyheist",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "tendrils",
       "platform": "tiktok",
       "price": "offer"
