@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "soulspeed",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "doomsdaykiller",
       "platform": "telegram",
       "price": "offer"
