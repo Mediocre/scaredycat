@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "dirtball",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "allenthealien",
       "platform": "steam",
       "price": "offer"
