@@ -4561,11 +4561,6 @@
       "price": 50
     },
     {
-      "name": "fazbear",
-      "platform": "telegram",
-      "price": 300
-    },
-    {
       "name": "impidimp",
       "platform": "epicgames",
       "price": 35
