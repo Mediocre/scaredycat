@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "dissector",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "tourniquets",
       "platform": "tiktok",
       "price": "offer"
