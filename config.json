@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "bankrolhayden",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "overlaps",
       "platform": "minecraft",
       "price": "offer"
