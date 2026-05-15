@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "h*rriettubman",
+      "platform": "twitter",
+      "price": 150
+    },
+    {
       "name": "wreckitralph",
       "platform": "instagram",
       "price": 250
