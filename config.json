@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "colonoscopy",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "confides",
       "platform": "minecraft",
       "price": "offer"
