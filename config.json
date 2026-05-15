@@ -5576,11 +5576,6 @@
       "price": 75
     },
     {
-      "name": "handsniper",
-      "platform": "telegram",
-      "price": 25
-    },
-    {
       "name": "scream",
       "platform": "pinterest",
       "price": "offer"
