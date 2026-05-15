@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "malintent",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "mausoleums",
       "platform": "minecraft",
       "price": "offer"
