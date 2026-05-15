@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "surveying",
+      "platform": "epicgames",
+      "price": 35
+    },
+    {
       "name": "simswappers",
       "platform": "epicgames",
       "price": 25
