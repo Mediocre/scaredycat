@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "vitocorleone",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "dissector",
       "platform": "tiktok",
       "price": "offer"
