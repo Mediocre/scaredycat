@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "koba",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "signin",
       "platform": "minecraft",
       "price": "offer"
