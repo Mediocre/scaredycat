@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "warhammertitan",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "touchyfeely",
       "platform": "telegram",
       "price": "offer"
