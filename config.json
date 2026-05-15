@@ -1446,11 +1446,6 @@
       "price": 50
     },
     {
-      "name": "scurrying",
-      "platform": "telegram",
-      "price": 100
-    },
-    {
       "name": "redirected",
       "platform": "steam",
       "price": "offer"
