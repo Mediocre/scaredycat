@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "mausoleums",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "quickseller",
       "platform": "minecraft",
       "price": "offer"
