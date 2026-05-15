@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "spinosaurus",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "blpkosher",
       "platform": "telegram",
       "price": "offer"
