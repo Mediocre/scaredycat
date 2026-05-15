@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "monstrosities",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "hypixelpit",
       "platform": "tiktok",
       "price": "offer"
