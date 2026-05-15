@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "towmater",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "narcissists",
       "platform": "tiktok",
       "price": "offer"
