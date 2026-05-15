@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "zodiacsign",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "dreamcon",
       "platform": "minecraft",
       "price": "offer"
