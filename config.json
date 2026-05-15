@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "hersheyskisses",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "wrongdoing",
       "platform": "tiktok",
       "price": "offer"
