@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "bachata",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "kingcobra",
       "platform": "steam",
       "price": "offer"
