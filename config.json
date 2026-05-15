@@ -1441,11 +1441,6 @@
       "price": 400
     },
     {
-      "name": "humungousaur",
-      "platform": "telegram",
-      "price": 50
-    },
-    {
       "name": "redirected",
       "platform": "steam",
       "price": "offer"
