@@ -1,11 +1,6 @@
 {
   "accounts": [
     {
-      "name": "tonystark",
-      "platform": "telegram",
-      "price": "offer"
-    },
-    {
       "name": "spinosaurus",
       "platform": "telegram",
       "price": "offer"
