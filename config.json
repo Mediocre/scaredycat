@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "s1@windowslive.com",
+      "platform": "emails",
+      "price": "offer"
+    },
+    {
       "name": "t*pgolf",
       "platform": "discord",
       "price": 75
@@ -3076,7 +3081,7 @@
       "price": 25
     },
     {
-      "name": "\u5c0f\u6cd5",
+      "name": "小法",
       "platform": "epicgames",
       "price": "offer"
     },
