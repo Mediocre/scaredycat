@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "dragonfruit@hotmail.com",
+      "platform": "emails",
+      "price": "offer"
+    },
+    {
       "name": "crackcocaine@hotmail.com",
       "platform": "emails",
       "price": "offer"
