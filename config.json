@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "iceposeidon@outlook.com",
+      "platform": "emails",
+      "price": "offer"
+    },
+    {
       "name": "spideysense@outlook.com",
       "platform": "emails",
       "price": "offer"
