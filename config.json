@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "reusing@outlook.com",
+      "platform": "emails",
+      "price": "offer"
+    },
+    {
       "name": "recruiter@outlook.com",
       "platform": "emails",
       "price": "offer"
