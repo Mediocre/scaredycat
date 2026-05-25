@@ -513,7 +513,7 @@
       <div class="platform"><div class="platform-name">Steam</div></div>
       <div class="platform"><div class="platform-name">SoundCloud</div></div>
       <div class="platform"><div class="platform-name">Pinterest</div></div>
-      <div class="platform"><div class="platform-name">Medal.tv</div></div>
+      <div class="platform"><div class="platform-name">Emails</div></div>
       <div class="platform"><div class="platform-name">Ubisoft</div></div>
 
       <!-- NEW: Linktree tile with external list URL -->
@@ -575,7 +575,7 @@
     const PLATFORM_LABELS = [
       "Instagram","Twitter","Telegram","Discord","Minecraft","EpicGames","Twitch",
       "GitHub","Snapchat","TikTok","Roblox","Steam","SoundCloud","Pinterest",
-      "Medal.tv","Ubisoft","Linktree","Domain"
+      "Emails","Ubisoft","Linktree","Domain"
     ];
     const DISPLAY_TO_KEY = Object.fromEntries(PLATFORM_LABELS.map(l => [l, norm(l)]));
 
@@ -596,7 +596,7 @@
       "Steam": "https://steamcommunity.com/id/{name}",
       "SoundCloud": "https://soundcloud.com/{name}",
       "Pinterest": "https://www.pinterest.com/{name}/",
-      "Medal.tv": "https://medal.tv/u/{name}",
+      "Emails": null,
       "Ubisoft": null,
       "Linktree": "https://linktr.ee/{name}",
       "Domain": null
@@ -606,7 +606,7 @@
       const want = norm(platformValue); // normalized version of value from config.json
       for (const label of PLATFORM_LABELS) {
         if (norm(label) === want) {
-          return label; // e.g. "Medal.tv"
+          return label;
         }
       }
       // fallback: just return what we got if no label matches
@@ -615,7 +615,7 @@
 
     // Build a profile link for an account, or null if none configured.
     function linkForAccount(acc) {
-      // Map whatever is in config.json ("medal.tv", "instagram", etc.)
+      // Map whatever is in config.json ("instagram", etc.)
       // to the display label used in PLATFORM_LABELS / PLATFORM_URL_TEMPLATES
       const key = resolvePlatformLabel(acc.platform); // <-- important change
       const tmpl = PLATFORM_URL_TEMPLATES[key];
