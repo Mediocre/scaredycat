@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "captcha@outlook.com",
+      "platform": "emails",
+      "price": "offer"
+    },
+    {
       "name": "rarity@outlook.com",
       "platform": "emails",
       "price": "offer"
