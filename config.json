@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "holistic@outlook.com",
+      "platform": "emails",
+      "price": "offer"
+    },
+    {
       "name": "briefly@outlook.com",
       "platform": "emails",
       "price": "offer"
