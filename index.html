@@ -643,8 +643,10 @@
       const key = (DISPLAY_TO_KEY[platformDisplay] || norm(platformDisplay));
       const isDomain = (key === 'domain' || key === 'domains');
       const isSteam  = (key === 'steam');
+      const isEmail  = (key === 'emails' || key === 'email');
       if (isDomain) return nm;
       if (isSteam)  return 'id/' + nm;
+      if (isEmail)  return nm;
       return '@' + nm;
     }
 
