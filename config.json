@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "northdakota@outlook.com",
+      "platform": "emails",
+      "price": "offer"
+    },
+    {
       "name": "fructose@outlook.com",
       "platform": "emails",
       "price": "offer"
