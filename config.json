@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "winery@outlook.com",
+      "platform": "emails",
+      "price": "offer"
+    },
+    {
       "name": "thursdays@outlook.com",
       "platform": "emails",
       "price": "offer"
