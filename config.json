@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "e*trusts",
+      "platform": "discord",
+      "price": 125
+    },
+    {
       "name": "christ*phercolumbus",
       "platform": "discord",
       "price": 100
