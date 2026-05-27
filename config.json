@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "incr*minate",
+      "platform": "discord",
+      "price": "offer"
+    },
+    {
       "name": "hypn*tist",
       "platform": "discord",
       "price": 750
