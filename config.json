@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "christ*phercolumbus",
+      "platform": "discord",
+      "price": 100
+    },
+    {
       "name": "chilli@outlook.com",
       "platform": "emails",
       "price": "offer"
