@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "l*ciferianism",
+      "platform": "github",
+      "price": 125
+    },
+    {
       "name": "pr*sciutto",
       "platform": "github",
       "price": 75
