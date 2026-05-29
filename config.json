@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "s*bpar",
+      "platform": "github",
+      "price": 100
+    },
+    {
       "name": "d*soriented",
       "platform": "github",
       "price": 175
