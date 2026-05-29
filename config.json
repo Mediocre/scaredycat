@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "girlfriends",
+      "platform": "epicgames",
+      "price": 35
+    },
+    {
       "name": "relays",
       "platform": "epicgames",
       "price": 25
