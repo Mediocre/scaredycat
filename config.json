@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "windchime",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
       "name": "cyberspace",
       "platform": "epicgames",
       "price": 35
