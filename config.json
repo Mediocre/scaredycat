@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "dennisrader",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "flonase",
       "platform": "telegram",
       "price": "offer"
