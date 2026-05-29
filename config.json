@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "dogpiling",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "mansplained",
       "platform": "minecraft",
       "price": "offer"
