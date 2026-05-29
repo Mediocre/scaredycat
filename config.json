@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "m*rcilessly",
+      "platform": "github",
+      "price": 150
+    },
+    {
       "name": "l*ciferianism",
       "platform": "github",
       "price": 125
