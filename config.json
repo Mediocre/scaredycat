@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "c*listhenics",
+      "platform": "github",
+      "price": 50
+    },
+    {
       "name": "m*nsplain",
       "platform": "github",
       "price": 50
