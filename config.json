@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "spawntrapping",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "foodcourt",
       "platform": "minecraft",
       "price": "offer"
