@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "devinbooker",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "olivergrayson",
       "platform": "tiktok",
       "price": "offer"
