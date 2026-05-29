@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "dynamites",
+      "platform": "epicgames",
+      "price": 35
+    },
+    {
       "name": "girlfriends",
       "platform": "epicgames",
       "price": 35
