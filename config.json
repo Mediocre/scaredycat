@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "cyberspace",
+      "platform": "epicgames",
+      "price": 35
+    },
+    {
       "name": "nefariously",
       "platform": "epicgames",
       "price": 35
