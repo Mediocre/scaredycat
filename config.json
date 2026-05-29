@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "biodegradable",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "jfyi",
       "platform": "steam",
       "price": "offer"
