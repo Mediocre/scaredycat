@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "m*tamorpho",
+      "platform": "github",
+      "price": 50
+    },
+    {
       "name": "blasphemously",
       "platform": "telegram",
       "price": "offer"
