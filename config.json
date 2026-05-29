@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "mansplained",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "spawntrapping",
       "platform": "steam",
       "price": "offer"
