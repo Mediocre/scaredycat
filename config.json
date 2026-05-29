@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "relays",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
       "name": "nate sib",
       "platform": "epicgames",
       "price": 75
