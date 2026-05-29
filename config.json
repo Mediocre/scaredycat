@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "betasquad",
+      "platform": "epicgames",
+      "price": 15
+    },
+    {
       "name": "purger",
       "platform": "epicgames",
       "price": 25
