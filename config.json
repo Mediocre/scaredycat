@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "foodcourt",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "franklinpierce",
       "platform": "minecraft",
       "price": "offer"
