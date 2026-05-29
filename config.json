@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "cadillacs",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
       "name": "devlog",
       "platform": "discord",
       "price": 15
