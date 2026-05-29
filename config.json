@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "kn*ckback",
+      "platform": "discord",
+      "price": 400
+    },
+    {
       "name": "ext*rminated",
       "platform": "discord",
       "price": 300
