@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "ext*rminated",
+      "platform": "discord",
+      "price": 300
+    },
+    {
       "name": "l*vitating",
       "platform": "discord",
       "price": 250
