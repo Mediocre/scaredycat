@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "m*nsplain",
+      "platform": "github",
+      "price": 50
+    },
+    {
       "name": "s*bpar",
       "platform": "github",
       "price": 100
