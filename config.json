@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "sabrinacarpenter",
+      "platform": "twitch",
+      "price": "offer"
+    },
+    {
       "name": "devinbooker",
       "platform": "tiktok",
       "price": "offer"
