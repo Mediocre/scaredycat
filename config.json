@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "billy idol",
+      "platform": "epicgames",
+      "price": 35
+    },
+    {
       "name": "betasquad",
       "platform": "epicgames",
       "price": 15
