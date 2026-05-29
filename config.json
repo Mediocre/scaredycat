@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "nate sib",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
       "name": "billy idol",
       "platform": "epicgames",
       "price": 35
