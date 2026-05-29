@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "magmacubes",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "dennisrader",
       "platform": "telegram",
       "price": "offer"
