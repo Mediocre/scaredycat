@@ -211,11 +211,6 @@
       "price": "offer"
     },
     {
-      "name": "enderpearls",
-      "platform": "telegram",
-      "price": "offer"
-    },
-    {
       "name": "dynamites",
       "platform": "epicgames",
       "price": 35
