@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "glamorizing",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
       "name": "kn*ckback",
       "platform": "discord",
       "price": 400
