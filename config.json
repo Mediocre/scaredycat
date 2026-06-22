@@ -1901,11 +1901,6 @@
       "price": 25
     },
     {
-      "name": "giraffe",
-      "platform": "epicgames",
-      "price": 300
-    },
-    {
       "name": "v*room",
       "platform": "discord",
       "price": 50
