@@ -656,11 +656,6 @@
       "price": "offer"
     },
     {
-      "name": "manifestable",
-      "platform": "telegram",
-      "price": "offer"
-    },
-    {
       "name": "tenderized",
       "platform": "telegram",
       "price": "offer"
