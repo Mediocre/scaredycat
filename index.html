@@ -400,30 +400,6 @@
       color: var(--accent);
     }
 
-.linktree-empty::before {
-  content: none;
-}
-
-
-    /* NEW: Linktree special button style */
-    .linktree-list-btn {
-      display: inline-block;
-      margin-top: 12px;
-      padding: 12px 24px;
-      border-radius: 12px;
-      border: 2px solid var(--accent);
-      background: #27272a;
-      color: var(--accent-2);
-      font-weight: 600;
-      font-size: 14px;
-      text-decoration: none;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-    .linktree-list-btn:hover {
-      filter: brightness(1.05);
-      box-shadow: 0 10px 26px rgba(139, 92, 246, 0.3);
-    }
 
     /* Selection control */
     * {
@@ -516,11 +492,7 @@
       <div class="platform"><div class="platform-name">Emails</div></div>
       <div class="platform"><div class="platform-name">Ubisoft</div></div>
 
-      <!-- NEW: Linktree tile with external list URL -->
-      <!-- Change data-list-url to whatever page has your full Linktree list -->
-      <div class="platform" data-list-url="https://rentry.co/dxhehzhf">
-        <div class="platform-name">Linktree</div>
-      </div>
+      <div class="platform"><div class="platform-name">Linktree</div></div>
 
       <div class="platform"><div class="platform-name">Domain</div></div>
     </div>
@@ -568,8 +540,6 @@
     let plat = null;
     let sort = 'recent';
     let list = [];
-    let currentPlatformEl = null; // NEW: remember the clicked tile element
-
     const norm = s => String(s || '').toLowerCase().replace(/[^a-z0-9]/g, '');
 
     const PLATFORM_LABELS = [
@@ -678,7 +648,7 @@
     function init() {
       document.querySelectorAll('.platform').forEach(p => {
         const label = p.querySelector('.platform-name').textContent.trim();
-        p.addEventListener('click', () => openModal(label, p), { passive: true }); // pass element
+        p.addEventListener('click', () => openModal(label), { passive: true });
       });
 
       document.querySelectorAll('.sort-btn').forEach(btn => {
@@ -704,28 +674,20 @@
       });
     }
 
-    function openModal(platformDisplay, el) {
+    function openModal(platformDisplay) {
       const overlay = document.getElementById('overlay');
       const modal = document.getElementById('modal');
       const sortRow = document.getElementById('sortRow');
       const negNote = document.getElementById('negNote');
 
-      currentPlatformEl = el || null;
       plat = platformDisplay;
       document.getElementById('title').textContent = platformDisplay;
 
-      // Reset sorting UI for non-Linktree only
-      if (platformDisplay === 'Linktree') {
-        // Hide sort + negotiable note for Linktree
-        sortRow.style.display = 'none';
-        negNote.style.display = 'none';
-      } else {
-        sortRow.style.display = 'flex';
-        negNote.style.display = 'block';
-        document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
-        document.querySelector('.sort-btn[data-sort="recent"]').classList.add('active');
-        sort = 'recent';
-      }
+      sortRow.style.display = 'flex';
+      negNote.style.display = 'block';
+      document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+      document.querySelector('.sort-btn[data-sort="recent"]').classList.add('active');
+      sort = 'recent';
 
       requestAnimationFrame(() => {
         process();
@@ -759,14 +721,6 @@
     }
 
     function process() {
-      // Special behavior for Linktree: show a button to external list instead of accounts
-      if (plat === 'Linktree') {
-        renderLinktreeSpecial();
-        adjustModalHeights();
-        capAccountsTo7Rows();
-        return;
-      }
-
       const base = getPlatformList(plat);
 
       if (sort === 'priceUp' || sort === 'priceDown') {
@@ -825,26 +779,6 @@
         `;
       }
       container.innerHTML = html;
-    }
-
-    // NEW: render special Linktree view (button to external list)
-    function renderLinktreeSpecial() {
-      const container = document.getElementById('accounts');
-      container.classList.add('is-empty');
-
-      const url = (currentPlatformEl && currentPlatformEl.dataset.listUrl) || '#';
-
-      container.innerHTML = `
-        <div class="empty linktree-empty" style="padding-top: 10px;">
-          <a href="${esc(url)}"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="linktree-list-btn"
-            style="margin-top: 0;">
-            CLICK HERE TO OPEN LINKTREE LIST
-          </a>
-        </div>
-      `;
     }
 
     function esc(str) {
