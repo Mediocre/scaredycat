@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "tweekin",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "summiting",
       "platform": "telegram",
       "price": "offer"
