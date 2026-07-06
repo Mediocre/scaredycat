@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "surprise",
+      "platform": "epicgames",
+      "price": 175
+    },
+    {
       "name": "pigsty",
       "platform": "epicgames",
       "price": 50
