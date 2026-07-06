@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "situationship",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "puresnow",
       "platform": "minecraft",
       "price": "offer"
