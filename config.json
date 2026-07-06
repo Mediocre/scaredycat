@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "tempertantrum",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "howtotrainyourdragon",
       "platform": "telegram",
       "price": "offer"
