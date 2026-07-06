@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "snail",
+      "platform": "epicgames",
+      "price": 500
+    },
+    {
       "name": "deal",
       "platform": "epicgames",
       "price": 300
