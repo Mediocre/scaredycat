@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "annihil*tes",
+      "platform": "github",
+      "price": 125
+    },
+    {
       "name": "countdracula",
       "platform": "telegram",
       "price": "offer"
