@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "finnwolfhard",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "pacifism",
       "platform": "tiktok",
       "price": "offer"
