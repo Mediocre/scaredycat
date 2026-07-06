@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "rocklee",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "fettuccine",
       "platform": "steam",
       "price": "offer"
