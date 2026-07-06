@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "sarcophagi",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "jeeperscreepers",
       "platform": "soundcloud",
       "price": "offer"
