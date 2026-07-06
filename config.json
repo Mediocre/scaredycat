@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "t*mmyinnit",
+      "platform": "twitter",
+      "price": "offer"
+    },
+    {
       "name": "glamorizing",
       "platform": "epicgames",
       "price": 25
