@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "january",
+      "platform": "epicgames",
+      "price": 1000
+    },
+    {
       "name": "moth",
       "platform": "epicgames",
       "price": 500
