@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "overst*pping",
+      "platform": "discord",
+      "price": 150
+    },
+    {
       "name": "f8*",
       "platform": "discord",
       "price": 125
