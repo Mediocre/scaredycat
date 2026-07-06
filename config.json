@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "harmonycobel",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "epipen",
       "platform": "tiktok",
       "price": "offer"
