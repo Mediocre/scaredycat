@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "m*nemenclub",
+      "platform": "discord",
+      "price": 50
+    },
+    {
       "name": "january",
       "platform": "epicgames",
       "price": 1000
