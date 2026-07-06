@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "vegetating",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "firecracker",
       "platform": "telegram",
       "price": "offer"
