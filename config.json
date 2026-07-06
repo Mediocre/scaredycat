@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "shroomlight",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "fakemink",
       "platform": "steam",
       "price": "offer"
