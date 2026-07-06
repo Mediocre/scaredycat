@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "salemwitchtrials",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "boxcutters",
       "platform": "telegram",
       "price": "offer"
