@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "fakemink",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "overwatch",
       "platform": "steam",
       "price": "offer"
