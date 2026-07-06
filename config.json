@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "pigsty",
+      "platform": "epicgames",
+      "price": 50
+    },
+    {
       "name": "havens",
       "platform": "epicgames",
       "price": 50
