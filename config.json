@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "thelionking",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "situationship",
       "platform": "steam",
       "price": "offer"
