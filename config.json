@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "powertrip",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "tempertantrum",
       "platform": "telegram",
       "price": "offer"
