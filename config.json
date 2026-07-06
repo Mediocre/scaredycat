@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "t*mburton",
+      "platform": "github",
+      "price": 150
+    },
+    {
       "name": "annihil*tes",
       "platform": "github",
       "price": 125
