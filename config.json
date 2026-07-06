@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "gave",
+      "platform": "epicgames",
+      "price": 200
+    },
+    {
       "name": "surprise",
       "platform": "epicgames",
       "price": 175
