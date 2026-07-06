@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "howtotrainyourdragon",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "squilliamfancyson",
       "platform": "telegram",
       "price": "offer"
