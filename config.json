@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "s*liciting",
+      "platform": "discord",
+      "price": 275
+    },
+    {
       "name": "s*xualizes",
       "platform": "discord",
       "price": 275
