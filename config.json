@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "archnemesis",
+      "platform": "epicgames",
+      "price": 100
+    },
+    {
       "name": "tomandjerry",
       "platform": "epicgames",
       "price": 35
