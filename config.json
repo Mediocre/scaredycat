@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "v*ndalization",
+      "platform": "discord",
+      "price": 150
+    },
+    {
       "name": "l*wercased",
       "platform": "discord",
       "price": 150
