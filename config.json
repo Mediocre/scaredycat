@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "c*llectible",
+      "platform": "discord",
+      "price": 500
+    },
+    {
       "name": "st*rtrek",
       "platform": "discord",
       "price": 250
