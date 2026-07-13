@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "tomandjerry",
+      "platform": "epicgames",
+      "price": 35
+    },
+    {
       "name": "welc*med",
       "platform": "github",
       "price": 50
