@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "wunderwaffe",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "umpteen",
       "platform": "minecraft",
       "price": "offer"
