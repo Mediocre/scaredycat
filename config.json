@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "oogieboogie",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "yoshicity",
       "platform": "telegram",
       "price": "offer"
