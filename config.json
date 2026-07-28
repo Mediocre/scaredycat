@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "ch*ckenpox",
+      "platform": "discord",
+      "price": 150
+    },
+    {
       "name": "ygr*tte",
       "platform": "discord",
       "price": 150
