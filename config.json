@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "thesmurfs",
+      "platform": "instagram",
+      "price": 150
+    },
+    {
       "name": "nonfungible",
       "platform": "instagram",
       "price": 150
