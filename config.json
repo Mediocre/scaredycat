@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "nonfungible",
+      "platform": "instagram",
+      "price": 150
+    },
+    {
       "name": "overreactive",
       "platform": "instagram",
       "price": 125
