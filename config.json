@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "hizashi",
+      "platform": "instagram",
+      "price": 125
+    },
+    {
       "name": "awolfinsheepsclothing",
       "platform": "instagram",
       "price": 75
