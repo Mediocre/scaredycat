@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "mmmmmmmmmmmmm",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
       "name": "kaws",
       "platform": "soundcloud",
       "price": "offer"
