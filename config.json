@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "yoshicity",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "smeeze",
       "platform": "telegram",
       "price": "offer"
