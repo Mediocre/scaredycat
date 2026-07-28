@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "batsuit",
+      "platform": "instagram",
+      "price": 175
+    },
+    {
       "name": "thesmurfs",
       "platform": "instagram",
       "price": 150
