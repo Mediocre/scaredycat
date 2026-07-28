@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "overreactive",
+      "platform": "instagram",
+      "price": 125
+    },
+    {
       "name": "fossilization",
       "platform": "instagram",
       "price": 125
