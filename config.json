@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "calfreezy",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "codenames",
       "platform": "minecraft",
       "price": "offer"
