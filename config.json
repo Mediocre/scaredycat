@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "codenames",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "junpei",
       "platform": "telegram",
       "price": "offer"
