@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "cyberpunkedgerunners",
+      "platform": "instagram",
+      "price": 175
+    },
+    {
       "name": "rapscallions",
       "platform": "instagram",
       "price": 175
