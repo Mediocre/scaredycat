@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "kurogiri",
+      "platform": "epicgames",
+      "price": 100
+    },
+    {
       "name": "mmmmmmmmmmmmm",
       "platform": "epicgames",
       "price": 75
