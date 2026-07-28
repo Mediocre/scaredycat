@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "kaws",
+      "platform": "soundcloud",
+      "price": "offer"
+    },
+    {
       "name": "c*llectible",
       "platform": "discord",
       "price": 500
