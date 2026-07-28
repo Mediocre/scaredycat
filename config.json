@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "b*rdseyeview",
+      "platform": "twitter",
+      "price": 50
+    },
+    {
       "name": "kurogiri",
       "platform": "epicgames",
       "price": 100
