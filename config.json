@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "curbstomp",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "wunderwaffe",
       "platform": "minecraft",
       "price": "offer"
