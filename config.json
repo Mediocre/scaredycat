@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "c*bbit",
+      "platform": "discord",
+      "price": 125
+    },
+    {
       "name": "5*55555555555555555555555555",
       "platform": "discord",
       "price": 100
