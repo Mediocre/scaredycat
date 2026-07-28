@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "awolfinsheepsclothing",
+      "platform": "instagram",
+      "price": 75
+    },
+    {
       "name": "probablecause",
       "platform": "instagram",
       "price": 50
