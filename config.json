@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "d*stracts",
+      "platform": "discord",
+      "price": 175
+    },
+    {
       "name": "r*tort",
       "platform": "discord",
       "price": 175
