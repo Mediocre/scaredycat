@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "str*ightaway",
+      "platform": "discord",
+      "price": 75
+    },
+    {
       "name": "cyberpunkedgerunners",
       "platform": "instagram",
       "price": 175
