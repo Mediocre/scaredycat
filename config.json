@@ -3611,11 +3611,6 @@
       "price": 75
     },
     {
-      "name": "grasshopper",
-      "platform": "twitch",
-      "price": 350
-    },
-    {
       "name": "fluctuating",
       "platform": "twitch",
       "price": 75
