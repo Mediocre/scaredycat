@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "tweedledee",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "jeopardized",
       "platform": "steam",
       "price": "offer"
