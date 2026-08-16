@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "valorant",
+      "platform": "epicgames",
+      "price": 250
+    },
+    {
       "name": "lucy bedroque",
       "platform": "epicgames",
       "price": 150
