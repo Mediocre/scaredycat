@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "toddmcfarlane",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "ryomen",
       "platform": "tiktok",
       "price": "offer"
