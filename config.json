@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "rupturing",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "gerbils",
       "platform": "steam",
       "price": "offer"
