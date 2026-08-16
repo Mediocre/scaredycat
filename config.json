@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "slobbered",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "rupturing",
       "platform": "steam",
       "price": "offer"
