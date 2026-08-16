@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "sunsetshimmer",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "embermclain",
       "platform": "instagram",
       "price": "offer"
