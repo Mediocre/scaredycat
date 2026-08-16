@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "reincorporate",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "drugdeal",
       "platform": "instagram",
       "price": "offer"
