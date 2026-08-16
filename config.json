@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "fireboy",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "ulbricht",
       "platform": "instagram",
       "price": "offer"
