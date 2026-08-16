@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "7_7",
+      "platform": "epicgames",
+      "price": 350
+    },
+    {
       "name": "valorant",
       "platform": "epicgames",
       "price": 250
