@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "grouch.net",
+      "platform": "domain",
+      "price": "offer"
+    },
+    {
       "name": "scaring.net",
       "platform": "domain",
       "price": "offer"
