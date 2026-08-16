@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "dime",
+      "platform": "epicgames",
+      "price": 350
+    },
+    {
       "name": "7_7",
       "platform": "epicgames",
       "price": 350
