@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "agoraphobia",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "inconveniently",
       "platform": "telegram",
       "price": "offer"
