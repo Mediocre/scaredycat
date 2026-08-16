@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "gerbils",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "summarizing",
       "platform": "steam",
       "price": "offer"
