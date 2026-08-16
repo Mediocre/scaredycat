@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "bellossom",
+      "platform": "epicgames",
+      "price": 100
+    },
+    {
       "name": "geewhiz",
       "platform": "epicgames",
       "price": 35
