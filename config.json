@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "claustrophobe",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "trenching",
       "platform": "steam",
       "price": "offer"
