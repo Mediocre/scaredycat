@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "jeopardized",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "trafficked",
       "platform": "steam",
       "price": "offer"
