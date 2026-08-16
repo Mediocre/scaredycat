@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "mortuaries",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "slobbered",
       "platform": "steam",
       "price": "offer"
