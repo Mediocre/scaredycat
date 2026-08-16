@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "trafficked",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "brainrots",
       "platform": "steam",
       "price": "offer"
