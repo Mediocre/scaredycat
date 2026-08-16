@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "couragejd",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "qqqqqqqqqqqqqqqq",
       "platform": "instagram",
       "price": "offer"
