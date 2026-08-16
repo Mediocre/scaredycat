@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "deviating",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "intensifying",
       "platform": "steam",
       "price": "offer"
