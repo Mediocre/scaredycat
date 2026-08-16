@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "c*ngressional",
+      "platform": "discord",
+      "price": 100
+    },
+    {
       "name": "dime",
       "platform": "epicgames",
       "price": 350
