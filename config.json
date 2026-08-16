@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "scaring.net",
+      "platform": "domain",
+      "price": "offer"
+    },
+    {
       "name": "sanitizes",
       "platform": "twitch",
       "price": 50
