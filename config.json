@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "drugdeal",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "fireboy",
       "platform": "instagram",
       "price": "offer"
