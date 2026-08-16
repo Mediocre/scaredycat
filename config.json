@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": ".jpeg",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "percocets.com",
       "platform": "domain",
       "price": "offer"
