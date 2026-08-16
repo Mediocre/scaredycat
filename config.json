@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "cinema4d",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "jeffdaniels",
       "platform": "instagram",
       "price": "offer"
