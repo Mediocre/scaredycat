@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "summarizing",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "couragejd",
       "platform": "steam",
       "price": "offer"
