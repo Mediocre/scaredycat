@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "jennifersbody",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": ".jpeg",
       "platform": "tiktok",
       "price": "offer"
