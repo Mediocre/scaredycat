@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "rogan",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
       "name": "agoraphobia",
       "platform": "telegram",
       "price": "offer"
