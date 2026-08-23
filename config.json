@@ -1,11 +1,6 @@
 {
   "accounts": [
     {
-      "name": "pocketwatch",
-      "platform": "steam",
-      "price": "offer"
-    },
-    {
       "name": "cucks",
       "platform": "steam",
       "price": "offer"
