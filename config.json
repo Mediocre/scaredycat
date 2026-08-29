@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "madongwook",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "merican",
       "platform": "instagram",
       "price": "offer"
