@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "s*domasochism",
+      "platform": "discord",
+      "price": 300
+    },
+    {
       "name": "footf*tish",
       "platform": "discord",
       "price": 250
