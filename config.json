@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "metroiddread",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "debbiegrayson",
       "platform": "instagram",
       "price": "offer"
