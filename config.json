@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "elementalpop",
+      "platform": "minecraft",
+      "price": "offer"
+    },
+    {
       "name": "junkjunction",
       "platform": "minecraft",
       "price": "offer"
