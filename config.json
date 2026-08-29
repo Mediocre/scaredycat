@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "choons",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "scrutinization",
       "platform": "instagram",
       "price": "offer"
