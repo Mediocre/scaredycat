@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "oopsadaisy",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "tasty",
       "platform": "epicgames",
       "price": 300
