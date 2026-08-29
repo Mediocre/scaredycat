@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "euphrosyne",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "madongwook",
       "platform": "instagram",
       "price": "offer"
