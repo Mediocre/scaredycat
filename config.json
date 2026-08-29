@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "r*cruiters",
+      "platform": "discord",
+      "price": 75
+    },
+    {
       "name": "spr*ycan",
       "platform": "discord",
       "price": 75
