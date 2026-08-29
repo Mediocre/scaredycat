@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "dragonb*lls",
+      "platform": "twitter",
+      "price": "offer"
+    },
+    {
       "name": "cucks",
       "platform": "steam",
       "price": "offer"
