@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "upcharge",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
       "name": "overdue",
       "platform": "epicgames",
       "price": 75
