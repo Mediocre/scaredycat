@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "pleads",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "plaguing",
       "platform": "tiktok",
       "price": "offer"
