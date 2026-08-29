@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "tandemaus",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "mesmerise",
       "platform": "instagram",
       "price": "offer"
