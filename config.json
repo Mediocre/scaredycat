@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "malfunctions",
+      "platform": "tiktok",
+      "price": "offer"
+    },
+    {
       "name": "reproducing",
       "platform": "tiktok",
       "price": "offer"
