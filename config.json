@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "blpkosher",
+      "platform": "epicgames",
+      "price": 100
+    },
+    {
       "name": "upcharge",
       "platform": "epicgames",
       "price": 75
