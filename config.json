@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "skedaddled",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "mentored",
       "platform": "steam",
       "price": "offer"
