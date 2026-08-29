@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "oldn*vy",
+      "platform": "discord",
+      "price": 75
+    },
+    {
       "name": "pleads",
       "platform": "tiktok",
       "price": "offer"
