@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "scrutinization",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "s*domasochism",
       "platform": "discord",
       "price": 300
