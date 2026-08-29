@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "whom",
+      "platform": "epicgames",
+      "price": 150
+    },
+    {
       "name": "blpkosher",
       "platform": "epicgames",
       "price": 125
