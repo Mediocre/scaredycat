@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "mentored",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "escalated",
       "platform": "steam",
       "price": "offer"
