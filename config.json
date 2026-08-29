@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "escalated",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "elementalpop",
       "platform": "minecraft",
       "price": "offer"
