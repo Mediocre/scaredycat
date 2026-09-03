@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "perses",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "rivalries",
       "platform": "telegram",
       "price": "offer"
