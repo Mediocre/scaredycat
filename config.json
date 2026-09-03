@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "rivalries",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "stairwaytoheaven",
       "platform": "instagram",
       "price": "offer"
