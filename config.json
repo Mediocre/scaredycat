@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "stairwaytoheaven",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "8b*llpool",
       "platform": "discord",
       "price": 50
