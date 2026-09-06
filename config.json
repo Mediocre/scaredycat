@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "r*laxants",
+      "platform": "discord",
+      "price": 175
+    },
+    {
       "name": "perses",
       "platform": "instagram",
       "price": "offer"
