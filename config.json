@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "jail*r",
+      "platform": "discord",
+      "price": 300
+    },
+    {
       "name": "unr*velling",
       "platform": "discord",
       "price": 150
