@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "tattletaled",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "prud*s",
       "platform": "discord",
       "price": 400
