@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "wanderingtrader",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "sleightofhand",
       "platform": "instagram",
       "price": "offer"
