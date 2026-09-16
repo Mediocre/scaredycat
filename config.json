@@ -1,11 +1,6 @@
 {
   "accounts": [
     {
-      "name": "w****** (hint: on a cat)",
-      "platform": "twitter",
-      "price": 1500
-    },
-    {
       "name": "d*jos",
       "platform": "discord",
       "price": 250
