@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "grubh*b",
+      "platform": "discord",
+      "price": 225
+    },
+    {
       "name": "jambajuice",
       "platform": "instagram",
       "price": "offer"
