@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "ladyeboshi",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "sooth*s",
       "platform": "discord",
       "price": 350
