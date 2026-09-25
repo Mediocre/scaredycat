@@ -1,11 +1,6 @@
 {
   "accounts": [
     {
-      "name": "b*bysmoove",
-      "platform": "discord",
-      "price": 300
-    },
-    {
       "name": "theexorcist",
       "platform": "minecraft",
       "price": "offer"
