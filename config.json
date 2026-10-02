@@ -266,11 +266,6 @@
       "price": 75
     },
     {
-      "name": "overdue",
-      "platform": "epicgames",
-      "price": 75
-    },
-    {
       "name": "certifiedtrapper",
       "platform": "telegram",
       "price": "offer"
