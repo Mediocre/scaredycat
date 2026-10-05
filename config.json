@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "giannisantetokounmpo",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "juliaw*lf",
       "platform": "discord",
       "price": 300
