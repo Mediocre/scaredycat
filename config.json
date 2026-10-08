@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "l*cerations",
+      "platform": "discord",
+      "price": 250
+    },
+    {
       "name": "benedictcumberbatch",
       "platform": "instagram",
       "price": "offer"
