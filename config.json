@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "hellskitchen",
+      "platform": "twitch",
+      "price": 50
+    },
+    {
       "name": "williamaft*n",
       "platform": "discord",
       "price": 225
