@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "immorality",
+      "platform": "twitch",
+      "price": 175
+    },
+    {
       "name": "hellskitchen",
       "platform": "twitch",
       "price": 50
