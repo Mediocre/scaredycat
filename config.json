@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "tour*sts",
+      "platform": "discord",
+      "price": 150
+    },
+    {
       "name": "l*cerations",
       "platform": "discord",
       "price": 250
