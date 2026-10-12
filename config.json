@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "americasgottalent",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "29*",
       "platform": "discord",
       "price": 300
