@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "woollymammoth",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "americasgottalent",
       "platform": "instagram",
       "price": "offer"
