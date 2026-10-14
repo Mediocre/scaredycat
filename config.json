@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "bettyboop",
+      "platform": "twitch",
+      "price": 275
+    },
+    {
       "name": "contortion",
       "platform": "twitch",
       "price": 225
