@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "edwardsnowden",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "bettyboop",
       "platform": "twitch",
       "price": 275
