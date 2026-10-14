@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "contortion",
+      "platform": "twitch",
+      "price": 225
+    },
+    {
       "name": "woollymammoth",
       "platform": "telegram",
       "price": "offer"
