@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "kitchennightmares",
+      "platform": "instagram",
+      "price": "offer"
+    },
+    {
       "name": "edwardsnowden",
       "platform": "instagram",
       "price": "offer"
