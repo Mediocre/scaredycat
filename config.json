@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "chad",
+      "platform": "pinterest",
+      "price": "offer"
+    },
+    {
       "name": "sacrifice",
       "platform": "pinterest",
       "price": "offer"
