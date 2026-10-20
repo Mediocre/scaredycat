@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "tr*nsfusions",
+      "platform": "discord",
+      "price": 125
+    },
+    {
       "name": "fear",
       "platform": "pinterest",
       "price": "offer"
