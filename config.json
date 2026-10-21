@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "unintimidated",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "tr*nsfusions",
       "platform": "discord",
       "price": 125
