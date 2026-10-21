@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "sleeptalker",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "unintimidated",
       "platform": "telegram",
       "price": "offer"
