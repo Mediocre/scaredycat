@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "undiagnosed",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "sleeptalker",
       "platform": "steam",
       "price": "offer"
