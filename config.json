@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "spencer",
+      "platform": "epicgames",
+      "price": 175
+    },
+    {
       "name": "chimichangas",
       "platform": "telegram",
       "price": "offer"
