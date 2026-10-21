@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "receptionist",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "undiagnosed",
       "platform": "steam",
       "price": "offer"
