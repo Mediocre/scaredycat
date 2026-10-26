@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "crude",
+      "platform": "epicgames",
+      "price": 2256
+    },
+    {
       "name": "spencer",
       "platform": "epicgames",
       "price": 175
