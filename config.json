@@ -2521,11 +2521,6 @@
       "price": "offer"
     },
     {
-      "name": "v*room",
-      "platform": "discord",
-      "price": 50
-    },
-    {
       "name": "remington",
       "platform": "ubisoft",
       "price": "offer"
