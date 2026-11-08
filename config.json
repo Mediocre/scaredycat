@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "brakence",
+      "platform": "telegram",
+      "price": 2000
+    },
+    {
       "name": "crude",
       "platform": "epicgames",
       "price": 225
