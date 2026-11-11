@@ -23,7 +23,7 @@
     }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       background: var(--bg);
       color: var(--text);
       min-height: 100vh;
@@ -143,6 +143,9 @@
       box-shadow: 0 10px 26px rgba(139, 92, 246, 0.22), 0 0 30px rgba(139, 92, 246, 0.12), inset 0 0 22px rgba(139, 92, 246, 0.07);
     }
     .platform:hover::before { opacity: 1; }
+
+    /* 6 / 6 / 4 layout: start the last row in column 2 so it sits centered */
+    .platform:nth-child(13) { grid-column-start: 2; }
     .platform-name { font-size: 14px; font-weight: 600; color: var(--text); text-align: center; }
 
     /* Modal overlay */
@@ -418,6 +421,7 @@
     /* platform responsiveness */
     @media (max-width: 1200px) {
       .platforms { grid-template-columns: repeat(4, 150px); }
+      .platform:nth-child(13) { grid-column-start: auto; }
     }
     @media (max-width: 900px) {
       .modal-header { padding: 36px 28px 28px; }
@@ -494,10 +498,6 @@
       <div class="platform"><div class="platform-name">SoundCloud</div></div>
       <div class="platform"><div class="platform-name">Pinterest</div></div>
       <div class="platform"><div class="platform-name">Emails</div></div>
-      <div class="platform"><div class="platform-name">Ubisoft</div></div>
-
-      <div class="platform"><div class="platform-name">Linktree</div></div>
-
       <div class="platform"><div class="platform-name">Domain</div></div>
     </div>
   </div>
@@ -549,7 +549,7 @@
     const PLATFORM_LABELS = [
       "Instagram","Twitter","Telegram","Discord","Minecraft","EpicGames","Twitch",
       "GitHub","Snapchat","TikTok","Roblox","Steam","SoundCloud","Pinterest",
-      "Emails","Ubisoft","Linktree","Domain"
+      "Emails","Domain"
     ];
     const DISPLAY_TO_KEY = Object.fromEntries(PLATFORM_LABELS.map(l => [l, norm(l)]));
 
@@ -571,8 +571,6 @@
       "SoundCloud": "https://soundcloud.com/{name}",
       "Pinterest": "https://www.pinterest.com/{name}/",
       "Emails": null,
-      "Ubisoft": null,
-      "Linktree": "https://linktr.ee/{name}",
       "Domain": null
     };
 
