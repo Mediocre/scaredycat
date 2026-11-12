@@ -493,7 +493,7 @@
       <div class="platform"><div class="platform-name">GitHub</div></div>
       <div class="platform"><div class="platform-name">Snapchat</div></div>
       <div class="platform"><div class="platform-name">TikTok</div></div>
-      <div class="platform"><div class="platform-name">Roblox</div></div>
+      <div class="platform"><div class="platform-name">Hytale</div></div>
       <div class="platform"><div class="platform-name">Steam</div></div>
       <div class="platform"><div class="platform-name">SoundCloud</div></div>
       <div class="platform"><div class="platform-name">Pinterest</div></div>
@@ -548,7 +548,7 @@
 
     const PLATFORM_LABELS = [
       "Instagram","Twitter","Telegram","Discord","Minecraft","EpicGames","Twitch",
-      "GitHub","Snapchat","TikTok","Roblox","Steam","SoundCloud","Pinterest",
+      "GitHub","Snapchat","TikTok","Hytale","Steam","SoundCloud","Pinterest",
       "Emails","Domain"
     ];
     const DISPLAY_TO_KEY = Object.fromEntries(PLATFORM_LABELS.map(l => [l, norm(l)]));
@@ -566,7 +566,7 @@
       "GitHub": null,
       "Snapchat": "https://snapchat.com/@{name}",
       "TikTok": "https://www.tiktok.com/@{name}",
-      "Roblox": null,
+      "Hytale": null,
       "Steam": "https://steamcommunity.com/id/{name}",
       "SoundCloud": "https://soundcloud.com/{name}",
       "Pinterest": "https://www.pinterest.com/{name}/",
@@ -639,7 +639,7 @@
       return NaN;
     }
     function priceLabel(p) {
-      return isOfferPrice(p) ? '$offer' : ('$' + numberPrice(p));
+      return isOfferPrice(p) ? '$offer' : ('$' + numberPrice(p).toLocaleString('en-US'));
     }
 
     fetch('config.json')
