@@ -497,8 +497,8 @@
       <div class="platform"><div class="platform-name">Steam</div></div>
       <div class="platform"><div class="platform-name">SoundCloud</div></div>
       <div class="platform"><div class="platform-name">Pinterest</div></div>
-      <div class="platform"><div class="platform-name">Emails</div></div>
-      <div class="platform"><div class="platform-name">Domain</div></div>
+      <div class="platform"><div class="platform-name">Emails/Domains</div></div>
+      <div class="platform"><div class="platform-name">Letterboxd</div></div>
     </div>
   </div>
 
@@ -549,7 +549,7 @@
     const PLATFORM_LABELS = [
       "Instagram","Twitter","Telegram","Discord","Minecraft","EpicGames","Twitch",
       "GitHub","Snapchat","TikTok","Hytale","Steam","SoundCloud","Pinterest",
-      "Emails","Domain"
+      "Emails/Domains","Letterboxd"
     ];
     const DISPLAY_TO_KEY = Object.fromEntries(PLATFORM_LABELS.map(l => [l, norm(l)]));
 
@@ -570,8 +570,8 @@
       "Steam": "https://steamcommunity.com/id/{name}",
       "SoundCloud": "https://soundcloud.com/{name}",
       "Pinterest": "https://www.pinterest.com/{name}/",
-      "Emails": null,
-      "Domain": null
+      "Emails/Domains": null,
+      "Letterboxd": "https://letterboxd.com/{name}/"
     };
 
     function resolvePlatformLabel(platformValue) {
@@ -601,24 +601,25 @@
     function getPlatformList(platformDisplay) {
       if (!cfg || !Array.isArray(cfg.accounts)) return [];
       const want = DISPLAY_TO_KEY[platformDisplay] || norm(platformDisplay);
+      // Combined box: all domains first, then all emails
+      if (want === 'emailsdomains') {
+        const isDomain = a => ['domain', 'domains'].includes(norm(a.platform));
+        const isEmail  = a => ['email', 'emails'].includes(norm(a.platform));
+        return cfg.accounts.filter(isDomain).concat(cfg.accounts.filter(isEmail));
+      }
       return cfg.accounts.filter(a => {
         const k = norm(a.platform);
-        if (want === 'domain') return (k === 'domain' || k === 'domains');
         return k === want;
       });
     }
 
-    // Name formatting: Domain raw; Steam id/; others @
+    // Name formatting: Emails/Domains raw; Steam id/; others @
     function formatNameForDisplay(name, platformDisplay) {
       const raw = String(name || '');
       const nm = raw.replace(/^@+/, '');
       const key = (DISPLAY_TO_KEY[platformDisplay] || norm(platformDisplay));
-      const isDomain = (key === 'domain' || key === 'domains');
-      const isSteam  = (key === 'steam');
-      const isEmail  = (key === 'emails' || key === 'email');
-      if (isDomain) return nm;
-      if (isSteam)  return 'id/' + nm;
-      if (isEmail)  return nm;
+      if (key === 'emailsdomains') return nm;
+      if (key === 'steam') return 'id/' + nm;
       return '@' + nm;
     }
 
