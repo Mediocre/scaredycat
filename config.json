@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "dispr*ven",
+      "platform": "discord",
+      "price": 225
+    },
+    {
       "name": "venom",
       "platform": "letterboxd",
       "price": 75
