@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "yuta",
+      "platform": "letterboxd",
+      "price": 50
+    },
+    {
       "name": "fff",
       "platform": "epicgames",
       "price": 450
