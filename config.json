@@ -1351,11 +1351,6 @@
       "price": 15
     },
     {
-      "name": "bayswag",
-      "platform": "telegram",
-      "price": 15
-    },
-    {
       "name": "nicepool",
       "platform": "telegram",
       "price": 15
