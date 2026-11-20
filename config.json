@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "bite",
+      "platform": "letterboxd",
+      "price": 100
+    },
+    {
       "name": "venom",
       "platform": "letterboxd",
       "price": 75
