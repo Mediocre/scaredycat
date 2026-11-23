@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "filleting",
+      "platform": "minecraft",
+      "price": 25
+    },
+    {
       "name": "l*cybedroque",
       "platform": "discord",
       "price": 350
