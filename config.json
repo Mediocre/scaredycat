@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "nintendoswitch",
+      "platform": "instagram",
+      "price": 100
+    },
+    {
       "name": "sxm",
       "platform": "epicgames",
       "price": 25
