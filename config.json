@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "makeovers",
+      "platform": "minecraft",
+      "price": 25
+    },
+    {
       "name": "filleting",
       "platform": "minecraft",
       "price": 25
