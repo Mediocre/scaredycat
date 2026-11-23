@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "strategizes",
+      "platform": "minecraft",
+      "price": 25
+    },
+    {
       "name": "doctorsleep",
       "platform": "minecraft",
       "price": 25
