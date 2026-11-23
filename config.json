@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "wheel*e",
+      "platform": "github",
+      "price": 125
+    },
+    {
       "name": "bloodhoundq50",
       "platform": "telegram",
       "price": 150
