@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "sxm",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
       "name": "g2i",
       "platform": "epicgames",
       "price": 15
