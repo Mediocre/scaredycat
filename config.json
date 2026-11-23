@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "l*cybedroque",
+      "platform": "discord",
+      "price": 350
+    },
+    {
       "name": "5*55555555555555",
       "platform": "discord",
       "price": 175
