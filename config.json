@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "g2i",
+      "platform": "epicgames",
+      "price": 15
+    },
+    {
       "name": "wheel*e",
       "platform": "github",
       "price": 125
