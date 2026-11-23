@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "blackmanta",
+      "platform": "instagram",
+      "price": 150
+    },
+    {
       "name": "nintendoswitch",
       "platform": "instagram",
       "price": 100
