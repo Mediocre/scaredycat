@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "depraves",
+      "platform": "minecraft",
+      "price": 75
+    },
+    {
       "name": "strategizes",
       "platform": "minecraft",
       "price": 25
