@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "infl*tables",
+      "platform": "discord",
+      "price": 25
+    },
+    {
       "name": "blackmanta",
       "platform": "instagram",
       "price": 150
