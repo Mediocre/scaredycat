@@ -81,11 +81,6 @@
       "price": 125
     },
     {
-      "name": "bloodhoundq50",
-      "platform": "telegram",
-      "price": 150
-    },
-    {
       "name": "bite",
       "platform": "letterboxd",
       "price": 100
